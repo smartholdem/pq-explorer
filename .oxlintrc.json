@@ -1,0 +1,17 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "globals": {
+    "defineProps": "readonly",
+    "defineEmits": "readonly",
+    "defineExpose": "readonly",
+    "defineSlots": "readonly",
+    "defineModel": "readonly",
+    "defineOptions": "readonly",
+    "withDefaults": "readonly"
+  },
+  "ignorePatterns": [
+    "**/dev-dist/**",
+    "**/dist/**",
+    "**/node_modules/**"
+  ]
+}
