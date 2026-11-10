@@ -1,4 +1,3 @@
-# pq-explorer
-SmartHoldem Post Quantum Block Explorer
+# SmartHoldem Post Quantum Block Explorer
 
 ![img.png](img.png)
