@@ -1,0 +1,18 @@
+{
+  "id": "mainnet",
+  "title": "Mainnet",
+  "alias": "Main",
+  "server": "https://node4.smartholdem.io/api",
+  "nethash": "b0987b45a3a754da1362bc6818548cb34f65750c9ac81d28c93e7545224df2d2",
+  "token": "STH",
+  "symbol": "STH",
+  "version": 63,
+  "addressPrefix": "S",
+  "activeDelegates": 21,
+  "blocktime": 8,
+  "epoch": "2023-08-29T00:00:00.000Z",
+  "explorer": "https://explorer.smartholdem.io",
+  "burnAddress": "STHsmartHoLdemBurnAddrHereXXXmUW7f",
+  "delegateSources": ["https://node0.smartholdem.io/api","https://node5.smartholdem.io/api"],
+  "knownWallets": "https://raw.githubusercontent.com/smartholdem/data/main/mainnet/known-wallets.json"
+}
